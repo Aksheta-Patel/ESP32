@@ -1,0 +1,8 @@
+# Build output
+build/
+
+# Downloaded ESP-IDF components
+managed_components/
+
+# Old configuration backups
+sdkconfig.old
