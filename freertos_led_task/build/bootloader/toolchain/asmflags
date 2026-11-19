@@ -1,0 +1,5 @@
+"-specs=/home/dnk/aksheta/training/esp_32/freertos_led_task/build/bootloader/specs/picolibc.specs"
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
