@@ -26,5 +26,11 @@
   "idf.currentSetup": "/home/dnk/.espressif/v6.1/esp-idf",
   "idf.customExtraVars": {
     "IDF_TARGET": "esp32s3"
-  }
+  },
+  "clangd.path": "/home/dnk/.espressif/tools/esp-clangd/esp-21.1.3_20260408/esp-clangd/bin/clangd",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=/home/dnk/aksheta/training/esp_32/gpio_input_pulldown/build"
+  ]
 }
